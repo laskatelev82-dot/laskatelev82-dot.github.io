@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.laskatelev82_dot.twa",
+        "sha256_cert_fingerprints": ["DA:6D:66:0F:64:6E:BC:16:78:A6:D3:63:E8:E7:AB:D3:91:25:E4:90:BE:07:71:4C:EE:FE:8D:C9:62:FD:12:A7"]
+      }
+    }]
